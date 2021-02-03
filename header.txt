@@ -1,0 +1,2 @@
+Countyname,Statename,Date,Confirmed,Deaths,Population
+
